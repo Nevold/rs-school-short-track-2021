@@ -1,6 +1,6 @@
 /**
- * Given a sorted array, find the index of the element with the given value.
- * Time complexity should be O(logN)
+  Given a sorted array, find the index of the element with the given value.
+  Time complexity should be O(logN)
  *
  * @param {Array} array
  * @param {Number} value
